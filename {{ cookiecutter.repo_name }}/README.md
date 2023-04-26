@@ -10,6 +10,7 @@ Project Organization
     ├── data
     │   ├── external        <- Data from third party sources.
     │   ├── interim         <- Intermediate data that has been transformed.
+    |   ├── output          <- 所有模型产生的输出数据     
     │   ├── processed       <- The final, canonical data sets for modeling.
     │   └── raw             <- The original, immutable data dump.
     │

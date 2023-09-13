@@ -23,10 +23,10 @@ $ conda install cookiecutter
 
 ### To start a new project, run:
 ------------
-
+安装cookiecutter这个python包后
 ```bash
 $ cookiecutter https://github.com/jiaxingxx/cookiecutter-ml-python
 ```
-或者下载cookiecutter-ml-python文件夹，cd到想创建new porject目录下，~为本地cookiecutter-ml-python文件夹路径
+或者下载cookiecutter-ml-python文件夹，cd到想创建new porject的目录下，~/cookiecutter-ml-python为本地cookiecutter-ml-python文件夹路径
 ```bash
 $ cookiecutter ~/cookiecutter-ml-python

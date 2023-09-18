@@ -21,7 +21,7 @@ Project Organization
     │                         description, a number (for ordering), and the creator's initials,
     │                        e.g. `initial-data-exploration-01-hg`.
     │
-    ├── references         <- Other git code repo, Data dictionaries, manuals, and all other explanatory materials.
+    ├── others         <- Other git code repo, Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── sourcecode                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
